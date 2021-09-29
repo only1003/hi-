@@ -1,0 +1,3 @@
+git remote add origin https://github.com/only1003/hi-.git
+git分支-M main
+git push-u origin main
